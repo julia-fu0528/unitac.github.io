@@ -32,9 +32,9 @@ carousels:
 
 ### Updates
 
-- **_Jun-2026_** [UMO](https://oliver-cong02.github.io/UMO.github.io/) accepted to ECCV 2026.
+- **_Jul-2026_** Three papers accepted to ECCV 2026 ([UMO](https://oliver-cong02.github.io/UMO.github.io/), MotionSplicer, and [Deform360](https://deform360.lhy.xyz/)).
 
-- **_June-2026_** [UniTac](https://ivl.cs.brown.edu/research/unitac) received [Outstanding Paper Award](assets/images/awards/2026_CVPRW_UniTac.JPG) on the proceeding track at CVPR 2026 Workshop [Sense of Space](https://sense-of-space.github.io/accepted-papers.html): Multi-Sensory Modeling for Embodied Intelligence.
+- **_Jun-2026_** [UniTac](https://ivl.cs.brown.edu/research/unitac) received [Outstanding Paper Award](assets/images/awards/2026_CVPRW_UniTac.JPG) on the proceeding track at CVPR 2026 Workshop [Sense of Space](https://sense-of-space.github.io/accepted-papers.html): Multi-Sensory Modeling for Embodied Intelligence.
 
 - **_Feb-2026_** Three papers accepted to CVPR 2026. More details coming soon.
 
